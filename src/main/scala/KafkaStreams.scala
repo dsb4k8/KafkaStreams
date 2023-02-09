@@ -1,5 +1,3 @@
-package content
-
 import io.circe.generic.auto._
 import io.circe.parser._
 import io.circe.syntax._
